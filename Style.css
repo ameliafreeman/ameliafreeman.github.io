@@ -1,0 +1,38 @@
+h1 {text-align: center;}
+body { background: #ffe6ea;
+       color: black;
+       font-size: 24pt; }
+	   p{margin: 2cm 4cm 2cm 4cm;}
+body { font-family: 'Open Sans Condensed', sans-serif; }
+<style>
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+} 
+
+ul {
+    list-style-type: none;
+    margin: 0;
+    padding: 0;
+    overflow: hidden;
+    background-color: #060606;
+}
+
+li {
+    float: Left;
+}
+
+li a {
+    display: block;
+    color: #ffe6ea;
+    text-align: center;
+    padding: 10px 80px;
+    text-decoration: none;
+}
+
+li a:hover {
+    background-color: #111;
+}
+
+
